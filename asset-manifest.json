@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shopify_Clone/static/css/main.60705fde.css",
-    "main.js": "/Shopify_Clone/static/js/main.daf5acb7.js",
+    "main.js": "/Shopify_Clone/static/js/main.90876768.js",
     "static/js/453.2a82e7ac.chunk.js": "/Shopify_Clone/static/js/453.2a82e7ac.chunk.js",
     "static/media/song2.mp3": "/Shopify_Clone/static/media/song2.094319c6a6cb9bf717d7.mp3",
     "static/media/song3.mp3": "/Shopify_Clone/static/media/song3.780c4dfad32ecaf4e3ef.mp3",
@@ -24,11 +24,11 @@
     "static/media/img1.jpg": "/Shopify_Clone/static/media/img1.f715083013430b7e457e.jpg",
     "index.html": "/Shopify_Clone/index.html",
     "main.60705fde.css.map": "/Shopify_Clone/static/css/main.60705fde.css.map",
-    "main.daf5acb7.js.map": "/Shopify_Clone/static/js/main.daf5acb7.js.map",
+    "main.90876768.js.map": "/Shopify_Clone/static/js/main.90876768.js.map",
     "453.2a82e7ac.chunk.js.map": "/Shopify_Clone/static/js/453.2a82e7ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60705fde.css",
-    "static/js/main.daf5acb7.js"
+    "static/js/main.90876768.js"
   ]
 }
